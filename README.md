@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Basics
 
 A beginner-friendly collection of JavaScript programs—simple, self-contained, and designed to build your confidence one concept at a time.
@@ -34,3 +35,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed, then:
 git clone https://github.com/azaleamiku/jsBasics.git
 cd jsBasics
 node fileName.js
+=======
+# jsBasics
+>>>>>>> b5ad07a2d7e0fc9b8a45a1d52853a34470927e6f
